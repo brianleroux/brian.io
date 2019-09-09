@@ -1,5 +1,4 @@
 {
-  "name": "post-logout",
   "dependencies": {
     "@architect/functions": "latest"
   }

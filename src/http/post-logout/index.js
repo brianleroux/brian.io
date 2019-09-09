@@ -1,10 +1,10 @@
 let arc = require('@architect/functions')
 
-async function logout() {
+exports.handler =arc.http.async(logout)
+
+async function logout(req) {
   return {
-    session: {authorized: false},
-    location: '/'
+    location: '/',
+    session: {authorized: false}
   }
 }
-
-exports.handler = arc.http.async(logout)
