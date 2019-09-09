@@ -1,0 +1,7 @@
+{
+  "name": "post-posts-000postID-delete",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

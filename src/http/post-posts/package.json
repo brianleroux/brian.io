@@ -1,0 +1,8 @@
+{
+  "name": "post-posts",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest",
+    "mime": "^2.4.4"
+  }
+}

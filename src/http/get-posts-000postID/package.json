@@ -1,0 +1,7 @@
+{
+  "name": "get-posts-000postID",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

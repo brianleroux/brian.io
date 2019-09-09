@@ -1,0 +1,6 @@
+{
+  "name": "get-about",
+  "dependencies": {
+    "@architect/functions": "latest"
+  }
+}

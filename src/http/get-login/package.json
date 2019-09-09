@@ -1,0 +1,6 @@
+{
+  "name": "get-login",
+  "dependencies": {
+    "@architect/functions": "latest"
+  }
+}

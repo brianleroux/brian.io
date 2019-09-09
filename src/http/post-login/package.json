@@ -1,0 +1,6 @@
+{
+  "name": "post-login",
+  "dependencies": {
+    "@architect/functions": "latest"
+  }
+}

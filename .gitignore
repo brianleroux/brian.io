@@ -1,0 +1,5 @@
+.arc-env
+node_modules
+package-lock.json
+sam.yaml
+foo.txt

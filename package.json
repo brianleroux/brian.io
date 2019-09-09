@@ -1,0 +1,19 @@
+{
+  "name": "node-microblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^6.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
+}

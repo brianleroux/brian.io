@@ -1,0 +1,6 @@
+{
+  "name": "get-new",
+  "dependencies": {
+    "@architect/functions": "latest"
+  }
+}
