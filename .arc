@@ -8,6 +8,7 @@ bucket brian-west-1
 
 @cdn
 @static
+
 @http
 # personal auth system
 get /
@@ -24,11 +25,7 @@ post /posts/:postID
 post /posts/:postID/delete
 
 # webmention endpoint
-post /webmention-endpoint
-
-@macros
-fix-s3-role
-begin-data
+#post /webmention-endpoint
 
 @tables
 data

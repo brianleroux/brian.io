@@ -2,7 +2,7 @@
   "name": "post-posts",
   "dependencies": {
     "@architect/functions": "latest",
-    "@begin/data": "latest",
+    "@begin/data": "^1.1.4-RC.0",
     "mime": "^2.4.4"
   }
 }

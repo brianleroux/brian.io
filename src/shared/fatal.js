@@ -7,6 +7,7 @@ module.exports = function fatal({err}) {
   return {
     status: 500,
     headers: {
+      // we do not want to cache errors!
       'cache-control': 'no-cache, no-store, must-revalidate, max-age=0, s-maxage=0'
     },
     html
